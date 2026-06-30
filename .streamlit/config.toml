@@ -1,0 +1,9 @@
+# 화이트(라이트) 테마 고정. 사용자 시스템이 다크 모드여도 앱은 항상 화이트로 표시된다.
+# 액센트는 SK 브랜드 컬러(SK Red #EA002C).
+[theme]
+base = "light"
+primaryColor = "#EA002C"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F6F8"
+textColor = "#1A1A1A"
+font = "sans serif"
